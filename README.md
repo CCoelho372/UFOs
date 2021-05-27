@@ -22,3 +22,7 @@ Below are examples of results that can be retrieved through the use of the filte
 ## Summary
 
 After completing this project there was one drawback to the new design. All filtered values had to be an exact search for what you were looking for, including not just spelling, but also capitalization. If you did not know the correct values to seek especially for the shape it would be difficult to narrow your search and determine if there really were no sightings with that criteria or if your search was incorrect. For further development I would include areas of the filter to be an autofill or suggested locations city and state and for shapes of the UFO i would categorize them and have them as a radio button option.
+
+
+
+![alt text](https://github.com/CCoelho372/UFOs/blob/main/full_web_app.PNG)
